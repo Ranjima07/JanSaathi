@@ -24,7 +24,7 @@ class _SplashScreenState extends State<SplashScreen> {
       backgroundColor: Colors.deepPurple,
       body: Center(
         child: Text(
-          "SevaAI",
+          "Jan-Saathi",
           style: TextStyle(
             color: Colors.white,
             fontSize: 32,
